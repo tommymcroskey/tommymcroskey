@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommymcroskey
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Git, CSS, HTML, Python, and Java
+- 🌱 I’m currently learning Frontend with Javascript
 - 💞️ I’m looking to collaborate on hackathon projects
 - 📫 How to reach me: LinkedIn @https://www.linkedin.com/in/thomas-mcroskey-779079277
 
