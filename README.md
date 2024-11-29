@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tommymcroskey
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Frontend with Javascript
+- 🌱 I’m currently learning Frontend with React
 - 💞️ I’m looking to collaborate on hackathon projects
-- 📫 How to reach me: LinkedIn @https://www.linkedin.com/in/thomas-mcroskey-779079277
+- 📫 How to reach me: LinkedIn @https://www.linkedin.com/in/thomas-mcroskey
 
 <!---
 tommymcroskey/tommymcroskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
